@@ -14,6 +14,7 @@ Prueba Americo es un plugin elaborado para leer informacion de un endpoint, gene
 la informacion en una tabla.
 
 Una de sus caracteristicas principales es que lleva el registro de que opcion a elejido el usuario.
+Para ver dichos registros buscar tabla wp_bitacora. 
 
 == Instalacion ==
 
